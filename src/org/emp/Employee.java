@@ -37,6 +37,11 @@ public class Employee {
 		e.empID();
 		e.empName();
 		
+		System.out.println("t1");
+		System.out.println("t4");
+		System.out.println("t5");
+		
+		
 	}
 	
 	
